@@ -1,11 +1,11 @@
 {
-  "name": "mibot",
+  "name": "Alberginabot",
   "version": "1.0.0",
-  "description": "Telegram bot",
+  "description": "Bot de telegram bot",
   "main": "index.js",
   "author": {
-    "name": "Nombre",
-    "email": "email@email.com"
+    "name": "leosamu",
+    "email": "leosamu@gmail.com"
   },
   "scripts": {
     "start": "node index.js"
@@ -13,7 +13,7 @@
   "license": "GPL-3.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/algope/valenbisibot"
+    "url": "https://github.com/leosamu/alberginabot"
   },
   "dependencies": {
     "geolib": "^2.0.24",
